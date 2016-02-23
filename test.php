@@ -1,3 +1,4 @@
 <?php  
-echo zhou;
+?>
+echo 123;
 ?>
